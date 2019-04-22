@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-
+#218. The Skyline Problem(經典hard題)也跟customized sort有關
 from functools import cmp_to_key
 
 
