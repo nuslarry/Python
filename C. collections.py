@@ -1,3 +1,5 @@
 #defaultdict()
 from collections import defaultdict
-visited=defaultdict(int)
+d=defaultdict(list)
+d['s'].append(3)
+
